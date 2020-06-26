@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+    border-style: yellow 10px;
+}
+
+.boxes {
+    box-sizing: border-box;
+    width: 100px;
+    height: 20px;
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.boxes-4 {
+    box-sizing: border-box;
+    width: 100px;
+    height: 20px;
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.boxes-21 {
+    box-sizing: border-box;
+    width: 100px;
+    height: 20px;
+    background-color: gray;
+    border: 1px solid black;
+}
